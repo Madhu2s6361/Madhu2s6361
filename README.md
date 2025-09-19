@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Madhu2s6361
-- 👀 I’m interested in AI/ML and Deep Learning 
-- 🌱 I’m currently learning AI - Data Anlaysic 
-- 💞️ I’m looking to collaborate on Image Preocessing and data preporsing and  deep learning
+- 👀 I’m interested in AI/ML and Deep Learning and Data Anlaystic
+- 🌱 I’m currently learning Artifical Intelligence 
+- 💞️ I’m looking to collaborate on Image Preocessing using Deep learning and Medical Devices
 - 📫 How to reach me madhu2905mitha@gmail.com
 
 
